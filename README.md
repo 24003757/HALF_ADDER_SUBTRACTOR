@@ -34,7 +34,10 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
-.
+
+![WhatsApp Image 2024-12-10 at 11 26 33 AM](https://github.com/user-attachments/assets/6b198930-d829-448b-b37f-11e48eb68882)
+
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -49,7 +52,8 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
-![Screenshot 2024-12-03 034127](https://github.com/user-attachments/assets/7b3d61b3-4dda-4add-b021-2e559596b197)
+![Screenshot 2024-12-03 061027](https://github.com/user-attachments/assets/3cf471f3-e0c0-4f57-a7f9-90c94df17325)
+
 
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
@@ -58,13 +62,16 @@ Developed by: RegisterNumber:*/ 24003757
 
 **RTL Schematic**
 
-![Screenshot 2024-12-03 034328](https://github.com/user-attachments/assets/61992e84-5e38-4922-b006-300f386f1501)
+
+
+![Screenshot 2024-12-03 061015](https://github.com/user-attachments/assets/eca1baae-6bb5-4013-aeb5-5d16c66879b7)
 
 
 **Output/TIMING Waveform**
-![Screenshot 2024-12-03 034106](https://github.com/user-attachments/assets/750c11da-d852-44db-987b-d6554d00ca62)
 
+![Screenshot 2024-12-03 061201](https://github.com/user-attachments/assets/cfa712e5-3c69-4d96-8c5e-1a1b1a52257f)
 
+Reg no.: 24003757
 
 **Result:**
 That the given logic function are implemented using the operations are verified using verilog programming.
